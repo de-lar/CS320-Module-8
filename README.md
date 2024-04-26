@@ -1,1 +1,3 @@
 # CS320-Module-8
+
+## To ensure the software is functional and secure, I try to understand what the object is and what the requirements are. This provides and foundation for testing and ensuring the final results align with the requirements. Once I understand the requirements, I conduct comprehensive testing and utilize techniques such as unit testing and boundary testing to spot and resolve functional issues. To interpret user needs into a program, I can interact with various stakeholders and conduct interviews to gather information such as expectations and requirements. I can also implement a channel for users to provide feedback to identify areas of improvement. This approach allows the software to easily adapts to changing user needs and market demands. 
